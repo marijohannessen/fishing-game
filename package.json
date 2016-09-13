@@ -1,0 +1,22 @@
+{
+  "name": "fishing-game",
+  "version": "1.0.0",
+  "description": "Fishing game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marijohannessen/fishing-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marijohannessen/fishing-game/issues"
+  },
+  "homepage": "https://github.com/marijohannessen/fishing-game#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
