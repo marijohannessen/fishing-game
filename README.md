@@ -1,2 +1,3 @@
-# fishing-game
-A fishing game.
+# Fishing game
+
+A fishing game made with React. Still under construction.
